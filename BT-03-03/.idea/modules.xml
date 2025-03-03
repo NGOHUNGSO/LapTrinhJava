@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BT-03-03.iml" filepath="$PROJECT_DIR$/.idea/BT-03-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLock/DeadLock.iml" filepath="$PROJECT_DIR$/DeadLock/DeadLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrietGiaAnToi/TrietGiaAnToi.iml" filepath="$PROJECT_DIR$/TrietGiaAnToi/TrietGiaAnToi.iml" />
+    </modules>
+  </component>
+</project>
