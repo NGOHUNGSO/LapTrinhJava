@@ -50,7 +50,8 @@ class Philosopher extends Thread {
     @Override
     public void run() {
         try {
-            while (eatCount < MAX_EAT) {
+            while (eatCount < MAX_E
+            AT) {
                 think();
                 synchronized (leftChopstick) {
                     leftChopstick.pickUp();
