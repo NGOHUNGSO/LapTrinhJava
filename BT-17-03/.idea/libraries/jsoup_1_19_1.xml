@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jsoup-1.19.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Downloads/jsoup-1.19.1.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Temp/selenium-java-4.29.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Downloads/selenium-server-4.29.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
