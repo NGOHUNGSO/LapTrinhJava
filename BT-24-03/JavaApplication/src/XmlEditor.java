@@ -90,12 +90,12 @@ public class XmlEditor extends JFrame {
         });
 
         mergeBtn.addActionListener(e -> {
-            XmlMerger.mergeAndSave(xmlManager.getElements(), "merged.xml");
-            JOptionPane.showMessageDialog(this, "Đã lưu merged.xml");
+            XmlMerger.mergeAndSave(xmlManager.getElements(), "KoBeOi.xml");
+            JOptionPane.showMessageDialog(this, "Đã lưu KoBeOi.xml");
         });
 
         readBtn.addActionListener(e -> {
-            List<String> content = XmlMerger.readMergedXml("merged.xml");
+            List<String> content = XmlMerger.readMergedXml("KoBeOi.xml");
             JOptionPane.showMessageDialog(this, String.join("\n", content));
         });
 
